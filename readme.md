@@ -1,0 +1,1 @@
+implementation of inline css in html.
